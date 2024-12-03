@@ -77,7 +77,7 @@ A window with the anime episode will open.
 
 ### Playing in Terminal:
 ```bash
-Playing Naruto episode 5 --in-terminal=true
+Playing Naruto episode 5
 ```
 The anime will play directly within your terminal.
 
